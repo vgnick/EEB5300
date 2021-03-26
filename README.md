@@ -5,9 +5,6 @@ Files for collaborative project on northern sandlance population genetics
 
 Scripts for going from raw .fastq files to processed and quality-checked .bam files for downstream analysis
 
-## Location of this repository
-
-If you are working on the Therkildsen lab server, this GitHub repository is located at `/workdir/data-processing/`. Otherwise, clone this repo to the machine on which you are working. 
 
 ## Before you start
 
