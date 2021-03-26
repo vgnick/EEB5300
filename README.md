@@ -109,7 +109,7 @@ After this is run, make sure to rename your demulitplexed fastq files so that th
 
 1. Clip adapters using [adapter_clipping.sh]
 
-2. Quality filtering using [quality_filtering.sh](optional)
+2. Quality filtering using [quality_filtering.sh]
 
 3. Build bowtie reference index using [build_bowtie_ref_index.sh]. This only needs to be done once with the same reference genome.
 
