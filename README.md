@@ -633,3 +633,10 @@ pca_color3 <- pca3 + scale_color_manual("Population", values=c("violet", "lights
   xlab("PC2") + ylab("PC3") 
 ggsave(filename = "~/Genomics/pcangsd_trimmed_pca3.pdf", plot = pca_color3)
 ```
+![image](https://user-images.githubusercontent.com/65695212/117350665-d48a2b00-ae7a-11eb-8016-b04af148ddb4.png)
+
+![image](https://user-images.githubusercontent.com/65695212/117350588-bb817a00-ae7a-11eb-9043-e00ce51756b8.png)
+![image](https://user-images.githubusercontent.com/65695212/117350686-d94edf00-ae7a-11eb-8536-e71e6705639b.png)
+
+
+![image](https://user-images.githubusercontent.com/65695212/117350588-bb817a00-ae7a-11eb-9043-e00ce51756b8.png)
