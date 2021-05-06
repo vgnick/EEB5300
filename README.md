@@ -134,7 +134,7 @@ After this is run, make sure to rename your demulitplexed fastq files so that th
 5. Count per position depth using [count_depth_per_position_per_sample.sh] and summarize these using [summarize_depth_per_position.R]
 
 
-## Scripts - adding scripts for just one of three lanes
+## Scripts for data processing - One lane given per "job" 
 
 Demultiplex shell
 
